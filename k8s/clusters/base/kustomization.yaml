@@ -1,5 +1,5 @@
 namespace: flux-system
 
 resources:
-  - ns.yaml
+  - flux-instance.yaml.yaml
 
