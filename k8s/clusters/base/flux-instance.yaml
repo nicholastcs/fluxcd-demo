@@ -22,7 +22,7 @@ spec:
     domain: "cluster.local"
   sync:
     kind: GitRepository
-    path: k8s/clusters/overlays/dev
+    path: k8s/clusters/overlays/aspara-dev
     ref: refs/heads/master
     url: https://github.com/nicholastcs/fluxcd-demo
     interval: 30s
